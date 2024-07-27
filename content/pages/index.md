@@ -12,7 +12,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Empezar
         altText: ''
         url: /
         showIcon: false
