@@ -48,7 +48,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: >-
+      A partir de la investigación sobre la crítica de la crítica de arte, se
+      propone un lugar para conversar sobre la influencia de la crítica y los
+      críticos en la actualidad.
     text: ''
     media:
       title: Title of the video
