@@ -12,7 +12,7 @@ sections:
 
 
     actions:
-      - label: ¿Qué es?
+      - label: Empezar
         altText: ''
         url: /
         showIcon: false
