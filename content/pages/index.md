@@ -86,7 +86,7 @@ sections:
         flexDirection: col
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: left
         fontWeight: 400
     type: GenericSection
   - type: FeaturedItemsSection
