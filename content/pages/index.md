@@ -57,7 +57,7 @@ sections:
       title: Title of the video
       url: 'https://youtu.be/RxDeF4Y7NLg'
       controls: false
-      aspectRatio: '16:9'
+      aspectRatio: '4:3'
       styles:
         self:
           padding:
