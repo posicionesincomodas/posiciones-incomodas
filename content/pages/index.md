@@ -49,11 +49,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      A partir de la investigación sobre la crítica de la crítica de arte, se
+      propone un lugar para conversar sobre la influencia de la crítica y los
+      críticos en la actualidad. 
+
     media:
       title: Title of the video
       url: 'https://youtu.be/RxDeF4Y7NLg'
