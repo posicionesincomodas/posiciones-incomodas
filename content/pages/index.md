@@ -98,7 +98,7 @@ sections:
         showIcon: true
         icon: youtube
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
   - type: FeaturedItemsSection
     title:
