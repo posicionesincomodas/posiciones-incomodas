@@ -52,7 +52,7 @@ sections:
 
 
     actions:
-      - label: Documento
+      - label: Leer aquí
         url: /
         icon: arrowRight
         iconPosition: right
