@@ -11,9 +11,6 @@ sections:
       type: TitleBlock
     subtitle: Monografía
     text: >
-      ¿La crítica necesita crítica?
-
-
       *Val(i)dez* es una investigación que analiza algunos
 
       momentos en los que la práctica misma se cuestionó, ya sea para
@@ -36,12 +33,6 @@ sections:
       Valdez*, hasta la segunda década de los 2000, con su intensa presencia en
 
       columnas digitales, jugó irónicamente con la autoridad crítica.
-
-
-      **Palabras claves:** Crítica de arte en Colombia, precrítica, crítica
-      seria, crítica no-seria, Lucas Ospina,
-
-      Posiciones Incómodas
     actions:
       - label: Leer aquí
         url: /
