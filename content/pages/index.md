@@ -101,7 +101,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: YouTube
         altText: ''
         url: >-
           /https://www.youtube.com/playlist?list=PL_cXtFjzSs0CLAgi94_Qqx-G9tPXxrxfk
