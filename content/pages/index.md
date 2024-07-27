@@ -55,7 +55,7 @@ sections:
       críticos en las artes plásticas.
     media:
       title: Title of the video
-      url: 'https://youtu.be/RxDeF4Y7NLg'
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
