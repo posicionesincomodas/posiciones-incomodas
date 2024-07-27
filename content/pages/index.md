@@ -50,9 +50,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A partir de la investigación sobre la crítica de la crítica de arte, se
-      propone un lugar para conversar sobre la influencia de la crítica y los
-      críticos en las artes plásticas.
+      Nos reunimos para conversar sobre las *Posiciones Incómodas* presentes en
+      el campo del arte.
     media:
       title: Title of the video
       url: ''
