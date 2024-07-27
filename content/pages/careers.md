@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Val(i)dez. La crítica de la crítica de arte en Colombia
       color: text-dark
       styles:
         self:
