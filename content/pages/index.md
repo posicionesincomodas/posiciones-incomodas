@@ -42,7 +42,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Podcast
+      text: ¿Qué es?
       color: text-dark
       styles:
         self:
