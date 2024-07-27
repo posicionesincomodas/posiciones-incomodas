@@ -87,6 +87,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
     type: GenericSection
   - type: FeaturedItemsSection
     title:
