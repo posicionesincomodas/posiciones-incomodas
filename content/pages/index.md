@@ -101,7 +101,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: YouTube
+        label: Empezar
         altText: ''
         url: ''
         showIcon: false
