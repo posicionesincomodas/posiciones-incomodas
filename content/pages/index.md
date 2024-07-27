@@ -103,8 +103,7 @@ sections:
       - type: Button
         label: YouTube
         altText: ''
-        url: >-
-          https://www.youtube.com/playlist?list=PL_cXtFjzSs0CLAgi94_Qqx-G9tPXxrxfk
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
