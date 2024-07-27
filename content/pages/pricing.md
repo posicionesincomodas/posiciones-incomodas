@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      Nos reunimos para conversar sobre las Posiciones Incómodas presentes en el
+      campo del arte, en su crítica y en la crítica de la crítica.
     plans:
       - title: Developers
         price: Free
