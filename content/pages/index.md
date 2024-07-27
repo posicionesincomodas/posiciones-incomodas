@@ -62,7 +62,7 @@ sections:
     subtitle: ''
     text: >
       Nos reunimos para conversar sobre las *Posiciones Incómodas* presentes en
-      el campo del arte.
+      el campo del arte, en su crítica y en la crítica de la crítica.
     media:
       title: Title of the video
       url: ''
