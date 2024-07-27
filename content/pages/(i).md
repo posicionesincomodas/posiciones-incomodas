@@ -1,6 +1,6 @@
 ---
 title: (i)
-slug: careers
+slug: (i)
 sections:
   - title:
       text: Val(i)dez. La crítica de la crítica de arte en Colombia
