@@ -89,6 +89,17 @@ sections:
         textAlign: center
         fontWeight: 400
     type: GenericSection
+    actions:
+      - type: Link
+        label: YouTube
+        altText: YouTube
+        url: >-
+          /https://www.youtube.com/playlist?list=PL_cXtFjzSs0CLAgi94_Qqx-G9tPXxrxfk
+        showIcon: true
+        icon: youtube
+        iconPosition: left
+        style: secondary
+        elementId: ''
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
