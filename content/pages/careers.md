@@ -10,12 +10,47 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Monografía
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      ¿La crítica necesita crítica? *Val(i)dez* es una investigación que analiza
+      algunos
+
+      momentos en los que la práctica misma se cuestionó, ya sea para
+      especializarse,
+
+      para lograr reconocimiento, para poner a prueba su autoridad o simplemente
+      para
+
+      debatir, ubicando los motivos de la transformación de su validez en tres
+
+      periodos: “precrítica”, “crítica seria” y “crítica no-seria”. Asimismo, en
+      “El
+
+      caso L.O.” se plantea la antítesis de la crítica de arte colombiana: los
+      textos
+
+      y gestos del artista Lucas Ospina quien desde 1995, con la publicación de
+      la *Revista
+
+      Valdez*, hasta la segunda década de los 2000, con su intensa presencia en
+
+      columnas digitales, jugó irónicamente con la autoridad crítica.
+
+
+
+      **Palabras claves:**
+
+
+      Crítica de arte en Colombia, precrítica, crítica seria, crítica no-seria,
+      Lucas Ospina,
+
+      Posiciones Incómodas
+
+
+
+
+
+
+
     actions:
       - label: See open positions
         url: /
