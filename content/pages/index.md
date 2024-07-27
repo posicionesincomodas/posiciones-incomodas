@@ -112,7 +112,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Val(i)dez. La crítica de la crítica de arte en Colombia
       color: text-dark
       styles:
         self:
