@@ -100,6 +100,16 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          /https://www.youtube.com/playlist?list=PL_cXtFjzSs0CLAgi94_Qqx-G9tPXxrxfk
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
