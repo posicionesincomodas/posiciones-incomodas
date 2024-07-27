@@ -8,8 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ¿La crítica de arte necesita crítica?
-    text: |
-      Posiciones Incómodas
+    text: |+
+
+
     actions:
       - label: Get started
         altText: ''
