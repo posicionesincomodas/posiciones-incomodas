@@ -10,9 +10,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Monografía
-    text: >+
-      ¿La crítica necesita crítica? *Val(i)dez* es una investigación que analiza
-      algunos
+    text: >
+      \<div style="text-align: left">¿La crítica necesita crítica? *Val(i)dez*
+      es una investigación que analiza algunos
 
       momentos en los que la práctica misma se cuestionó, ya sea para
       especializarse,
@@ -33,8 +33,7 @@ sections:
 
       Valdez*, hasta la segunda década de los 2000, con su intensa presencia en
 
-      columnas digitales, jugó irónicamente con la autoridad crítica.
-
+      columnas digitales, jugó irónicamente con la autoridad crítica.\</div>
 
 
       **Palabras claves:**
@@ -44,13 +43,6 @@ sections:
       Lucas Ospina,
 
       Posiciones Incómodas
-
-
-
-
-
-
-
     actions:
       - label: Leer aquí
         url: /
