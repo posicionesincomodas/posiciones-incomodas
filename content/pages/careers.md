@@ -52,7 +52,7 @@ sections:
 
 
     actions:
-      - label: See open positions
+      - label: Documento
         url: /
         icon: arrowRight
         iconPosition: right
