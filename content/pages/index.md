@@ -60,11 +60,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
-      \<div style="text-align: center">Nos reunimos para conversar sobre las
-      *Posiciones Incómodas* presentes en el campo del arte, en su crítica y en
-      la crítica de la crítica.\</div>
-
+    text: >
+      Nos reunimos para conversar sobre las *Posiciones Incómodas* presentes en
+      el campo del arte, en su crítica y en la crítica de la crítica.
     media:
       title: Title of the video
       url: ''
