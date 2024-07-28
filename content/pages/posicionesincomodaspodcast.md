@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Flexible Pricing
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
