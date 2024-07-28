@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Podcast
       color: text-light
       styles:
         self:
