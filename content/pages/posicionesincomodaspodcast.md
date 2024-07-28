@@ -16,9 +16,9 @@ sections:
         title: '001'
         price: El puente está quebrado
         details: Ana Luisa González
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Conversación sobre la crítica de arte y su divulgación con Ana Luisa
+          González, periodista cultural y creadora de El Rayón Podcast.
         features:
           - Feature one
           - Feature two
