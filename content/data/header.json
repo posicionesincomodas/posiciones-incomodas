@@ -32,7 +32,7 @@
         {
             "type": "Button",
             "label": "Podcast",
-            "altText": "",
+            "altText": "podcast",
             "url": "/posicionesincomodaspodcast",
             "showIcon": false,
             "icon": "arrowRight",
