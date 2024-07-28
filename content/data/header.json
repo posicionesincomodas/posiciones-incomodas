@@ -33,7 +33,7 @@
             "label": "Podcast",
             "altText": "",
             "links": [],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
         }
     ],
