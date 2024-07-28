@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: '001'
         price: El puente está quebrado
-        details: No credit card required
+        details: Ana Luisa González
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
