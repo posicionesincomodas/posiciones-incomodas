@@ -22,7 +22,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/1.jpg
           altText: '1'
         actions:
           - type: Button
