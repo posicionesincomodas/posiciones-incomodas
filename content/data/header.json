@@ -30,6 +30,17 @@
             "type": "Link"
         },
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/podcast",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
