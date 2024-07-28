@@ -39,17 +39,6 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "type": "Button",
-            "label": "Podcast",
-            "altText": "podcast",
-            "url": "/posicionesincomodaspodcast",
-            "showIcon": false,
-            "icon": "",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
