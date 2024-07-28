@@ -19,7 +19,8 @@ sections:
         description: >
           Conversación sobre la crítica de arte y su divulgación con Ana Luisa
           González, periodista cultural y creadora de El Rayón Podcast.
-        features: []
+        features:
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
