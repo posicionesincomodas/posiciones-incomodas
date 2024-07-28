@@ -23,7 +23,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
+          altText: '1'
         actions:
           - type: Button
             label: Escuchar aquí
