@@ -9,15 +9,6 @@
         "title": "CONTACTO",
         "links": [
             {
-                "label": "Contacto",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Blog",
                 "url": "/pricing",
                 "icon": "arrowRight",
