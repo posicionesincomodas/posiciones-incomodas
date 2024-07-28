@@ -31,7 +31,7 @@
         },
         {
             "type": "Link",
-            "label": "YouTube",
+            "label": "Podcast",
             "altText": "YouTube",
             "url": "/posicionesincomodaspodcast",
             "showIcon": true,
