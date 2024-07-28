@@ -23,7 +23,7 @@
         {
             "label": "(i)",
             "altText": "(i)",
-            "url": "/blog",
+            "url": "/i",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
