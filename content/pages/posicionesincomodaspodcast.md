@@ -35,10 +35,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
+              - pt-3
+              - pb-3
+              - pl-3
+              - pr-3
             borderRadius: large
             borderColor: border-light
       - type: PricingPlan
