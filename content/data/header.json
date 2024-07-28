@@ -32,7 +32,7 @@
         {
             "type": "Link",
             "label": "Podcast",
-            "altText": "YouTube",
+            "altText": "podcast",
             "url": "/posicionesincomodaspodcast",
             "showIcon": true,
             "icon": "youtube",
