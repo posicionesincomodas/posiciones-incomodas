@@ -34,7 +34,7 @@
             "label": "Podcast",
             "altText": "podcast",
             "url": "/posicionesincomodaspodcast",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
