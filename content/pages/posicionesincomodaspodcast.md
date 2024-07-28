@@ -43,7 +43,7 @@ sections:
             borderColor: border-light
       - type: PricingPlan
         title: '002'
-        price: $99
+        price: Arte joven
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
