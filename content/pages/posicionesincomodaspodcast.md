@@ -40,6 +40,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+            borderColor: border-light
       - type: PricingPlan
         title: Professional
         price: $99
