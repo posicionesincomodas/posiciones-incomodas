@@ -42,7 +42,7 @@ sections:
             borderRadius: large
             borderColor: border-light
       - type: PricingPlan
-        title: Professional
+        title: '002'
         price: $99
         details: per month
         description: >-
