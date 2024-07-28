@@ -30,17 +30,6 @@
             "type": "Link"
         },
         {
-            "type": "Button",
-            "label": "Podcast",
-            "altText": "",
-            "url": "/podcast",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
