@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Val(i)dez?
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Monografía
     text: >+
 
       Val(i)dez es una investigación que analiza algunos momentos en los que la
