@@ -1,9 +1,9 @@
 {
-    "light": "#ffffff",
-    "dark": "#4A4A4A",
+    "light": "#FEF9F8",
+    "dark": "#DC391B",
     "neutral": "#E8E8EB",
     "neutralAlt": "#DCDCDC",
-    "primary": "#2a2a2a",
+    "primary": "#DC391B",
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
@@ -39,7 +39,7 @@
         "type": "ThemeStyleHeading"
     },
     "h5": {
-        "size": "xl",
+        "size": "base",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
