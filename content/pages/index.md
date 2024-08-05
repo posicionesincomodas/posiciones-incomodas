@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Val(i)dez
+      text: Val(i)dez. La crítica de la crítica de arte en Colombia
       color: text-dark
       type: TitleBlock
     subtitle: ¿La crítica de arte necesita crítica?
