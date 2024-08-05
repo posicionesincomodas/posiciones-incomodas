@@ -58,7 +58,8 @@ sections:
         actions:
           - type: Button
             label: Escuchar aquí
-            url: /
+            url: >-
+              /https://www.youtube.com/playlist?list=PL_cXtFjzSs0CLAgi94_Qqx-G9tPXxrxfk
             icon: arrowRight
             iconPosition: right
             style: secondary
