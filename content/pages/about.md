@@ -13,7 +13,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: (i)
         url: '/https://linktr.ee/posicionesincomodas'
         icon: arrowRight
         iconPosition: right
