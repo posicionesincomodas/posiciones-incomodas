@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Val(i)dez
+      text: Contacto
       color: text-dark
     subtitle: Monografía
     text: >+
