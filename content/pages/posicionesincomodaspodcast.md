@@ -47,9 +47,9 @@ sections:
         details: >-
           con Doreiby Perafán, Santiago Lemus, Carolina Borrero, Daniel R.
           Blanco, Camila Vargas, Jorge Esteban y Steven Moreno
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Encuesta: ¿Qué piensan los "artistas jóvenes" de la crítica y los
+          críticos?
         features:
           - Feature one
           - Feature two
