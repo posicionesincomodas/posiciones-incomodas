@@ -8,9 +8,21 @@ sections:
       text: Val(i)dez?
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+
+      Val(i)dez es una investigación que analiza algunos momentos en los que la
+      práctica misma se cuestionó, ya sea para especializarse, para lograr
+      reconocimiento, para poner a prueba su autoridad o simplemente para
+      debatir, ubicando los motivos de la transformación de su validez en tres
+      periodos: “precrítica”, “crítica seria” y “crítica no-seria”. Asimismo, en
+      “El caso L.O.” se plantea la antítesis de la crítica de arte colombiana:
+      los textos y gestos del artista Lucas Ospina quien desde 1995, con la
+      publicación de la Revista Valdez, hasta la segunda década de los 2000, con
+      su intensa presencia en columnas digitales, jugó irónicamente con la
+      autoridad crítica. Y finalmente, se presenta el proyecto Posiciones
+      Incómodas un espacio para reflexionar sobre la crítica a la crítica de
+      arte en la actualidad.
+
     actions:
       - type: Button
         label: Get started
