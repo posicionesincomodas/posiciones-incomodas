@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: ¿Cuál es su posición incómoda sobre las artes?
     plans:
       - type: PricingPlan
         title: '001'
