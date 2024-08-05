@@ -74,7 +74,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
+        title: 008
         price: Crítica y Validez
         details: con Lucas Ospina
         description: >-
