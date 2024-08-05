@@ -38,7 +38,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/006 posiciones incómodas.png
+      url: /images/IMAGEN_Laura_Guerrero.png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
