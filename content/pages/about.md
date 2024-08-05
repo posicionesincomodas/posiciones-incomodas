@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Val(i)dez
+      text: Val(i)dez?
       color: text-dark
     subtitle: Be in good company
     text: >
