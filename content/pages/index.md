@@ -14,7 +14,7 @@ sections:
     actions:
       - label: (i)
         altText: ''
-        url: (i)
+        url: posicionesincomodas.netlify.app/i/
         showIcon: false
         icon: arrowRight
         iconPosition: right
