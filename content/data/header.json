@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "¿Qué es?",
-            "url": "/about",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "about"
-        },
-        {
             "label": "(i)",
             "altText": "(i)",
             "url": "/i",
@@ -29,6 +20,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "label": "¿Qué es?",
+            "url": "/about",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "altText": "about"
         },
         {
             "type": "Link",
