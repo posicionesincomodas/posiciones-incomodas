@@ -51,7 +51,6 @@ sections:
           Encuesta: ¿Qué piensan los "artistas jóvenes" de la crítica y los
           críticos?
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
