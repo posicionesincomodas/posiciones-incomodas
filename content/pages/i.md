@@ -35,7 +35,8 @@ sections:
       columnas digitales, jugó irónicamente con la autoridad crítica.
     actions:
       - label: Leer aquí
-        url: /
+        url: >-
+          /https://drive.google.com/file/d/1MSkFxN3GAHy2-fuLFhQ2GmJh1OC28U0A/view?usp=drive_link
         icon: arrowRight
         iconPosition: right
         style: primary
