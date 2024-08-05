@@ -52,7 +52,6 @@ sections:
           críticos?
         features:
           - Feature two
-          - Feature four
         image:
           type: ImageBlock
           url: /images/1.jpg
