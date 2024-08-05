@@ -78,8 +78,7 @@ sections:
         details: con Lucas Ospina
         description: |
           Conversación en vivo 9 de agosto 3pm en la Facultad de Artes ASAB
-        features:
-          - Feature five
+        features: []
         image:
           type: ImageBlock
           url: /images/1.jpg
