@@ -79,7 +79,6 @@ sections:
         description: |
           Conversación en vivo 9 de agosto 3pm en la Facultad de Artes ASAB
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
