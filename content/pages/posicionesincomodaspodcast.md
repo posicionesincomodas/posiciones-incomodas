@@ -55,7 +55,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/Imagen1.png
+          url: /images/1.jpg
           altText: Pricing plan 2
         actions:
           - type: Button
