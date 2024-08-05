@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: '/https://linktr.ee/posicionesincomodas'
         icon: arrowRight
         iconPosition: right
         style: secondary
