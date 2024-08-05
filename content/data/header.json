@@ -34,7 +34,7 @@
             "type": "Link",
             "label": "Posiciones Incómodas",
             "altText": "posiciones incómodas",
-            "url": "/posicionesincomodas",
+            "url": "/posicionesincomodaspodcat",
             "showIcon": true,
             "icon": "",
             "iconPosition": "left",
