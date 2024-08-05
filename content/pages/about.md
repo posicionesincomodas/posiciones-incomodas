@@ -40,10 +40,6 @@ sections:
       type: ImageBlock
       url: /images/006 posiciones incómodas.png
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: ¿QUÉ ES
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
