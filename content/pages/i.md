@@ -36,7 +36,7 @@ sections:
     actions:
       - label: Leer aquí
         url: >-
-          /https://drive.google.com/file/d/1MSkFxN3GAHy2-fuLFhQ2GmJh1OC28U0A/view?usp=drive_link
+          https://drive.google.com/file/d/1MSkFxN3GAHy2-fuLFhQ2GmJh1OC28U0A/view?usp=drive_link
         icon: arrowRight
         iconPosition: right
         style: primary
