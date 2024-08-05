@@ -14,7 +14,7 @@ sections:
     actions:
       - label: (i)
         altText: ''
-        url: '/https://create.netlify.com/studio/66a5679a1189f100c3c726e2#/i/'
+        url: (i)
         showIcon: false
         icon: arrowRight
         iconPosition: right
