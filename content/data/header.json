@@ -32,7 +32,7 @@
         },
         {
             "type": "Link",
-            "label": "Podcast",
+            "label": "Posiciones Incómodas",
             "altText": "podcast",
             "url": "/posicionesincomodaspodcast",
             "showIcon": true,
