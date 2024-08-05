@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: POSICIONES INCÓMODAS
+      text: Val(i)dez
       color: text-dark
       type: TitleBlock
     subtitle: ¿La crítica de arte necesita crítica?
