@@ -9,9 +9,9 @@ sections:
       color: text-dark
     subtitle: Monografía
     text: >+
-      #### Val(i)dez es una investigación que analiza algunos momentos en los
-      que la práctica misma se cuestionó, ya sea para especializarse, para
-      lograr reconocimiento, para poner a prueba su autoridad o simplemente para
+      ### Val(i)dez es una investigación que analiza algunos momentos en los que
+      la práctica misma se cuestionó, ya sea para especializarse, para lograr
+      reconocimiento, para poner a prueba su autoridad o simplemente para
       debatir, ubicando los motivos de la transformación de su validez en tres
       periodos: “precrítica”, “crítica seria” y “crítica no-seria”. Asimismo, en
       “El caso L.O.” se plantea la antítesis de la crítica de arte colombiana:
