@@ -22,15 +22,6 @@
             "type": "Link"
         },
         {
-            "label": "¿Qué es?",
-            "url": "/about",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "about"
-        },
-        {
             "type": "Link",
             "label": "Posiciones Incómodas",
             "altText": "posiciones incómodas",
@@ -40,6 +31,15 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "¿Qué es?",
+            "url": "/about",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "altText": "about"
         }
     ],
     "secondaryLinks": [],
