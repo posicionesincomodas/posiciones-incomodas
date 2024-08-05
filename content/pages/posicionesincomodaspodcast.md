@@ -76,7 +76,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: Crítica y Validez
-        details: per month
+        details: con Lucas Ospina
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
