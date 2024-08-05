@@ -76,9 +76,8 @@ sections:
         title: 008
         price: Crítica y Validez
         details: con Lucas Ospina
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          Conversación en vivo 9 de agosto 3pm en la Facultad de Artes ASAB
         features:
           - Feature one
           - Feature two
