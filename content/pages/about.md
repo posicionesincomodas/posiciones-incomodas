@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Contacto
       color: text-dark
-    subtitle: Monografía
+    subtitle: posicionesincómodas@gmail.com
     text: >+
       #### Val(i)dez es una investigación que analiza algunos momentos en los
       que la práctica misma se cuestionó, ya sea para especializarse, para
