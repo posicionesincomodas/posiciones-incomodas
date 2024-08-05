@@ -12,12 +12,6 @@
     },
     "socialLinks": [
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.youtube.com/@PosicionesIncomodas",
             "icon": "youtube",
