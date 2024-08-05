@@ -50,8 +50,7 @@ sections:
         description: >
           Encuesta: ¿Qué piensan los "artistas jóvenes" de la crítica y los
           críticos?
-        features:
-          - Feature two
+        features: []
         image:
           type: ImageBlock
           url: /images/1.jpg
