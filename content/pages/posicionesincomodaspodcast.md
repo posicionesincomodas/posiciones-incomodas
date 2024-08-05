@@ -42,7 +42,7 @@ sections:
             borderRadius: large
             borderColor: border-light
       - type: PricingPlan
-        title: '002'
+        title: 002-007
         price: Arte joven
         details: per month
         description: >-
