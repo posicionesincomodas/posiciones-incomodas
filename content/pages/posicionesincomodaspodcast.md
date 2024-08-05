@@ -44,7 +44,9 @@ sections:
       - type: PricingPlan
         title: 002-007
         price: Arte joven
-        details: per month
+        details: >-
+          con Doreiby Perafán, Santiago Lemus, Carolina Borrero, Daniel R.
+          Blanco, Camila Vargas, Jorge Esteban y Steven Moreno
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
